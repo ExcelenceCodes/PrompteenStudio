@@ -86,7 +86,3 @@ Special thanks to all contributors who help make prompt engineering accessible a
 Code
 
 ---
-
-This README is optimized for **GitHub SEO** with keywords like *prompt engineering*, *PyQt6*, *open-source*, and *AI development*.  
-
-👉 Next step: I can scaffold a **CONTRIBUTING.md** file with clear guidelines for is
