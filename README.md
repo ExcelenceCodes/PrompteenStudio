@@ -39,10 +39,8 @@ Clone the repository and install dependencies:
 git clone https://github.com/ExcelenceCodes/PrompteenStudio.git
 cd PrompteenStudio
 pip install -r requirements.txt
-Run the app:
+```bash
 
-bash
-python import\ os.txt
 🤝 Contributing
 We welcome contributions!
 Here’s how you can help:
@@ -75,14 +73,11 @@ MIT License — free to use, modify, and distribute with attribution.
 💡 Acknowledgements
 Built with:
 
-Python 3
+Python 13.5*3
 
 PyQt6
 
 QStudios AFL Product Line
 
 Special thanks to all contributors who help make prompt engineering accessible and powerful.
-
-Code
-
 ---
